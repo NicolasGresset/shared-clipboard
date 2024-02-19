@@ -25,7 +25,10 @@ This will be useful in [this](#phone-side) section
 
 ## Autostart the js script
 
-The script always needs to run. I make it start with my [window manager](https://github.com/awesomeWM/awesome) but you can choose any method that fits your needs.
+The [script](linux_host/server.js) always needs to run. I make it start with my [window manager](https://github.com/awesomeWM/awesome) but you can choose any method that fits your needs.
+Note that restarting it accidentally is not an issue (it will prematurely abort complaining about an address already in use).
 
 # Phone side
+
+todo
 
